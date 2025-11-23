@@ -50,17 +50,17 @@ A base contém atributos sonoros como:
 A pasta **`imagens/`** contém visualizações geradas durante a análise exploratória dos dados.
 
 ### 🔹 Distribuição dos Atributos
-![Distribuição dos atributos](imagens/eda_distribuicao_de_atributos.png)
+![Distribuição dos atributos](./imagens/eda_distribuicao_de_atributos.png)
 
 Visualização das distribuições dos principais atributos numéricos do dataset, permitindo identificar padrões, variações e possíveis assimetrias nos dados.
 
 ### 🔹 Matriz de Correlação
-![Matriz de correlação](imagens/eda_matriz_de_correlacao.png)
+![Matriz de correlação](./imagens/eda_matriz_de_correlacao.png)
 
 Mostra as correlações entre atributos sonoros, auxiliando na compreensão das relações entre variáveis do modelo.
 
 ### 🔹 Número de Componentes (NMF)
-![Número de componentes](imagens/num_componentes.png)
+![Número de componentes](./imagens/num_componentes.png)
 
 Gráfico do erro de reconstrução para diferentes números de componentes, utilizado para selecionar o valor ideal (**16 componentes**) no modelo NMF.
 
